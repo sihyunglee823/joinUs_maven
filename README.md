@@ -17,8 +17,8 @@
 
 1. mvn clean -> 이전 빌드로 인해 남아있는 산출물을 제거
 2. mvn package -> 실행가능한 jar 파일 생성
-3. target 디렉토리에 joinUs-0.0.1-SNAPSHOT.jar 확인
-4. java -jar joinUs-0.0.1-SANPSHOT.jar -> jar 파일 실행 
+3. target 디렉토리에 joinUs_maven-0.0.1-SNAPSHOT.jar 확인
+4. java -jar joinUs_maven-0.0.1-SANPSHOT.jar -> jar 파일 실행 
 
 <실행화면>
 
