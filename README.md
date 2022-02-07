@@ -23,9 +23,18 @@
 <실행화면>
 
 * 홈
+![image](figure/home.png)
 <br></br>
+
 * 로그인 페이지
+![image](figure/login.png)
 <br></br>
+
 * 회원가입 페이지
+![image](figure/signUp.png)
 <br></br>
+
 * welcome 페이지 (로그인 후 접근가능)
+
+     ![image](figure/welcome.png)
+
