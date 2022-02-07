@@ -1,6 +1,6 @@
 # joinUs_maven
 
-## <spring-boot 기반 maven 빌드 샘플코드 설명>
+**<spring-boot 기반 maven 빌드 샘플코드 설명>**
 
 1. 로그인/회원가입 페이지 구축
    - Security Config 작성
@@ -13,14 +13,15 @@
    - DB 에 사용자 정보를 등록 & 불러오는 메소드 구현
      -> UserDetailService 인터페이스를 통해 사용
      
- <프로젝트 build & run 순서>
+**<프로젝트 build & run 순서>**
 
 1. mvn clean -> 이전 빌드로 인해 남아있는 산출물을 제거
 2. mvn package -> 실행가능한 jar 파일 생성
 3. target 디렉토리에 joinUs_maven-0.0.1-SNAPSHOT.jar 확인
 4. java -jar joinUs_maven-0.0.1-SANPSHOT.jar -> jar 파일 실행 
+<br></br>
 
-## <실행화면>
+**<실행화면>**
 
 * 홈
 ![image](figure/home.png)
