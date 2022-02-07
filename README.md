@@ -1,6 +1,6 @@
 # joinUs_maven
 
-<spring-boot 기반 maven 빌드 샘플코드 설명>
+## <spring-boot 기반 maven 빌드 샘플코드 설명>
 
 1. 로그인/회원가입 페이지 구축
    - Security Config 작성
@@ -20,7 +20,7 @@
 3. target 디렉토리에 joinUs_maven-0.0.1-SNAPSHOT.jar 확인
 4. java -jar joinUs_maven-0.0.1-SANPSHOT.jar -> jar 파일 실행 
 
-<실행화면>
+## <실행화면>
 
 * 홈
 ![image](figure/home.png)
